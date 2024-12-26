@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+//https://tlx.toki.id/courses/basic-cpp/chapters/12/problems/G
 
 void gunung (int n){
     if (n == 1){

@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
+//https://tlx.toki.id/courses/basic-cpp/chapters/12/problems/E
 
 int main(){
     int n, d;
