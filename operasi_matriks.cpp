@@ -1,6 +1,7 @@
 #include <iostream>
 #include <vector>
 using namespace std;
+//https://tlx.toki.id/courses/competitive-1/chapters/01/problems/P1
 
 void rotasi(vector<vector<int>> &matrix, int &baris, int &kolom) {
     vector<vector<int>> rotated(kolom, vector<int>(baris));
